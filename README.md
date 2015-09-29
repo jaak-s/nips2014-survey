@@ -13,6 +13,6 @@ If you find any mistakes please let us know or submit a pull request.
 
 ## All papers
 
-Title of the paper | URL | Has parameters | Fixed | Grid search
------------------- | --- | -------------- | ----- | -----------
+Title of the paper | URL | Parameters? | Fixed | Grid search
+------------------ | --- | ----------- | ----- | -----------
 kernel | http | 1 | 0 | 1
