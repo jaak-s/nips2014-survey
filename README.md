@@ -3,6 +3,21 @@
 In this survey we checked all papers from NIPS2014 to investigate what methods were used by the authors to select the best parameters. This survey was performed for our hyperparameter optimization software [Optunity](http://www.optunity.net).
 If you find any mistakes please let us know or submit a pull request.
 
+## Methodology
+To objectively assess the current adoption of dedicated hyperparameter optimization techniques,
+we have surveyed all papers of the NIPS 2014 conference (411 in total).
+We counted all papers mentioning cross-validation or hyperparameter tuning
+and then categorized these papers based on which hyperparameter optimization method
+was used. We were primarily interested in how many papers report using techniques other
+than grid search, random search, manual tuning or using default hyperparameter values.
+
+To automate the survey and make it reproducible, we scanned all papers for names of
+well-known hyperparameter optimization methods along with names of the authors of the
+corresponding publications. In this way, we automatically accounted for random search
+(Bergstra and Bengio, 2012), Spearmint (Snoek et al., 2012), HyperOpt (Bergstra et al.,
+2013), BayesOpt (Martinez-Cantin, 2014), ParamILS (Hutter et al., 2009), SMAC (Hutter
+et al., 2011) and the Tree of Parzen Estimators (TPE) optimizer (Bergstra et al., 2011).
+
 ## Summary
 86 papers used any kind of hyperparameter search:
 
