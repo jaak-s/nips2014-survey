@@ -13,8 +13,8 @@ If you find any mistakes please let us know or submit a pull request.
 
 ## All papers
 
-Title of the paper | URL | Parameters? | Fixed | Grid | Random | TPE | BayesOpt | Spearmint | SMAC | ParamILS
------------------- | --- | ----------- | ----- | ---- | ------ | --- | -------- | --------- | ---- | --------
+Title of the paper | URL | Params | Fixed | Grid | Random | TPE | BayesOpt | Spearmint | SMAC | ParamILS
+------------------ | --- | ------ | ----- | ---- | ------ | --- | -------- | --------- | ---- | --------
 Kernel Mean Estimation via Spectral Filtering Krikamol Muandet, Bharath Sriperumbudur, Bernhard Schölkopf|[link](http://papers.nips.cc/paper/5239-kernel-mean-estimation-via-spectral-filtering)|0|0|0|0|0|0|0|0|0|0
 Semi-Separable Hamiltonian Monte Carlo for Inference in Bayesian Hierarchical Models Yichuan Zhang, Charles Sutton|[link](http://papers.nips.cc/paper/5591-semi-separable-hamiltonian-monte-carlo-for-inference-in-bayesian-hierarchical-models)|0|0|0|0|0|0|0|0|0|0
 Communication Efficient Distributed Machine Learning with the Parameter Server Mu Li, David G. Andersen, Alex J. Smola, Kai Yu|[link](http://papers.nips.cc/paper/5597-communication-efficient-distributed-machine-learning-with-the-parameter-server)|0|0|0|0|0|0|0|0|0|0
